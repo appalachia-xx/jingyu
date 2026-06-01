@@ -27,10 +27,6 @@ github_link: https://github.com/appalachia-xx
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: false
 
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-# auto_dark_mode: false
-
 # Font
 font: "Serif"
 
