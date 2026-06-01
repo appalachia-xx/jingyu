@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a PhD student in the Distributed Computing and Systems group at the Chalmers University of Technology.
-My reseaerch lies on stream processing with a focus on relaxing the trade-off between memory control and computation cost.
+The reseaerch lies on stream processing with a focus on relaxing the trade-off between memory control and computation cost.
 
 ## Projects
 
