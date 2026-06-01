@@ -14,6 +14,7 @@ main:
     authors:  <strong>Jingyu Liu</strong>, Vincenzo Gulisano
     conference_short: ICPE
     conference: 16th ACM/SPEC International Conference on Performance Engineering (ICPE), 2025.
+    url: https://dl.acm.org/doi/10.1145/3676151.3719369
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
