@@ -1,7 +1,7 @@
 main:
 
   - title: "Chill: Runtime Reconfiguration of Windowed Stream Aggregates"
-    authors: <strong>Jingyu Liu</strong>, Vincenzo Gulisano。
+    authors: <strong>Jingyu Liu</strong>, Vincenzo Gulisano
     conference_short: DEBS
     conference: 20th ACM International Conference on Distributed and Event-based Systems (DEBS), 2026.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -11,7 +11,7 @@ main:
     # notes: Early Accept
 
   - title: "On-demand Memory Compression for Stream Aggregates through Reinforcement Learning"
-    authors:  <strong>Jingyu Liu</strong>, Vincenzo Gulisano。
+    authors:  <strong>Jingyu Liu</strong>, Vincenzo Gulisano
     conference_short: ICPE
     conference: 16th ACM/SPEC International Conference on Performance Engineering (ICPE), 2025.
     url: https://dl.acm.org/doi/10.1145/3676151.3719369

@@ -9,7 +9,7 @@
 <div class="pub-row">
   <div class="pub-content">
       <div class="title">{% if link.pdf %}<a href="{{ link.pdf }}" target="_blank">{{ link.title }}</a>{% elsif link.url %}<a href="{{ link.url }}" target="_blank">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
-      <div class="author">{{ link.authors }}{% if link.conference %}, <em>{{ link.conference }}</em>{% endif %}</div>
+      <div class="author">{{ link.authors }}{% if link.conference %}. <em>{{ link.conference }}</em>{% endif %}</div>
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
