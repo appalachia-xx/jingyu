@@ -9,11 +9,10 @@ My reseaerch lies on stream processing with a focus on relaxing the trade-off be
 
 ## Projects
 
-- **On-demand memory compression:** On-demand memory compression for stream Aggregates through RL
+- **&#91;Ongoing&#93; Dynamic relaxed window configurations:** Live tuning window parameters
+- **&#91;Ongoing&#93; Scale LLM service resources:** Assign optimal resources to different LLM services
 - **Relaxed window reconfiguration:** Runtime reconfiguration of windowed strem Aggregates
-- **Dynamic relaxed window configurations:** Live tuning window parameters
-- **Scale LLM service resources:** Assign optimal resources to different LLM services
+- **On-demand memory compression:** On-demand memory compression for stream Aggregates through RL
+
 
 {% include_relative _includes/publications.md %}
-
-<!-- {% include_relative _includes/services.md %} -->
