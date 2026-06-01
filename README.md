@@ -1,4 +1,6 @@
-# The Minimal Light Theme
+Template from minimal-light(https://github.com/yaoyao-liu/minimal-light)
+
+<!-- # The Minimal Light Theme
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
 
@@ -184,4 +186,4 @@ Our project uses the source code from the following repositories:
 
 * [orderedlist/minimal](https://github.com/orderedlist/minimal)
 
-* [al-folio](https://github.com/alshedivat/al-folio)
+* [al-folio](https://github.com/alshedivat/al-folio) -->
