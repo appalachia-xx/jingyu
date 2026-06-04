@@ -6,7 +6,7 @@ layout: homepage
 
 <!-- <div style="text-align: justify" markdown="1"> -->
 I am a PhD student in the Distributed Computing and Systems group at Chalmers University of Technology.
-My reseaerch lies on stream processing with a focus on relaxing the trade-off between memory control and computation cost.
+My reseaerch lies on stream processing, with a focus on runtime adaptivity of stream Aggregates -- dynamically balancing resource consumption, output performance and correctness guarantees based on evolving workloads and deployment conditions.
 <!-- </div> -->
 
 ## Projects
