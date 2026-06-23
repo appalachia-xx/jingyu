@@ -4,6 +4,7 @@ main:
     authors: <strong>Jingyu Liu</strong>, Vincenzo Gulisano
     conference_short: DEBS
     conference: 20th ACM International Conference on Distributed and Event-based Systems (DEBS), 2026.
+    url: https://dl.acm.org/doi/10.1145/3809481.3812621
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
 
   - title: "Balancing Performance and Memory: Investigating Compression Trade-offs for Stream Aggregates"
